@@ -1,0 +1,13 @@
+
+.tiles {
+	padding: 20px;
+}
+
+.tile {
+	float: left;
+	font-size: 45px;
+	height: 50px;
+	width: 65px;
+	margin: 10px;
+	text-align: center;
+}
